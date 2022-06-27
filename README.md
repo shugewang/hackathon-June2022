@@ -19,3 +19,6 @@ This section will also include links to non-profit organisations that could prov
 
 -> Contact us\
 This provides a way for young people to get in touch with mentors from the LGBTQ+ community.
+
+![image](https://user-images.githubusercontent.com/101587342/175963616-2e9f8ad4-fe1d-40c8-9419-a81dee0a50dc.png)
+![image](https://user-images.githubusercontent.com/101587342/175963653-c87cc803-4ecd-472b-a42a-d3b7f258e63d.png)
