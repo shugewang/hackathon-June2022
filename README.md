@@ -13,9 +13,9 @@ This section includes information on local clubs and communities and provide a w
 -> Sport inspirations\
 This section provides information on successful LGBTQ people in sports and other fields.
 
--> Resources
+-> Resources\
 This providse information on LGBTQ themed media (films, TV, and books) and potentially a weekly online book club/discussion group.
 This section will also include links to non-profit organisations that could provide advice and support (e.g. Mind, The Trevor Project).
 
--> Contact us
+-> Contact us\
 This provides a way for young people to get in touch with mentors from the LGBTQ+ community.
