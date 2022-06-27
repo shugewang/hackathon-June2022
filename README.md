@@ -7,10 +7,10 @@ Our idea was to create an online resource that is available on the school intran
 
 During the two-day Hackathon, we worked as a team to create a website that included the following pages: 
 
--> Local clubs/communities
+-> Local clubs/communities\
 This section includes information on local clubs and communities and provide a way for LGBTQ youth to find LGBTQ-friendly sport clubs.
 
--> Sport inspirations
+-> Sport inspirations\
 This section provides information on successful LGBTQ people in sports and other fields.
 
 -> Resources
