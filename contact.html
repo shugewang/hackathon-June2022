@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Contact Form</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  
+  <body>
+    <nav id="navbar">
+      <img src="logo.png" width=200px>
+      <ul id="navigations">
+          <li><a class="nav-link" href="index.html">About</a></li>
+          <li><a class="nav-link" href="nearyou.html">Sport Clubs</a></li>
+          <li><a class="nav-link" href="rolemodels.html">Sport Inspirations</a></li>
+          <li><a class="nav-link" href="resources.html">Resources</a></li>
+          <li><a class="nav-link" href="contact.html">Get in touch</a></li>
+      </ul>
+  </nav>
+    <main>
+
+          <form id="survey-form">
+            <h1>We are here for you</h1>
+            <p>If you want to talk to someone from the LGBTQ+ community about anything - sports, school, family, friends, films, music, books - put in your contact info here and we will get back to soon as soon as we can!</p>
+       
+            <div class="form-section">
+              <label id="name-label" for="name"> Name: </label><br>
+              <input type="text" 
+                 id = "name" 
+                 name = "name" 
+                 placeholder = "this can be a nickname!"
+                 required>
+            </div>
+
+        <div class="form-section">
+          <label id="email-label" for="email"> Email: </label><br>
+          <input type="email"
+                 id="email"
+                 name="email">
+        </div>
+
+        <div class="form-section">
+            <label id="mobile-label" for="tel"> Mobile: </label><br>
+            <input type="tel"
+                   id="tel"
+                   name="tel">
+        </div>
+
+       <p>What would you like to talk about?</p>
+        <div class="form-section">
+          <textarea name="comment" rows = "3" cols = "30">
+          </textarea>
+        </div>
+
+        <div class="form-section" id="submit-section">
+          <input type="submit" id="submit" value="Send message">
+        </div>
+
+      </form>
+    </div>
+  </body>
+</html>
