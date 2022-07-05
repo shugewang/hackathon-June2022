@@ -6,10 +6,6 @@
     margin: 0;
 }
 
-body * {
-    border:red solid 2px;
-}
-
 body {
     background: #e9e2d5;
     font-family: 'Rubik', sans-serif;
